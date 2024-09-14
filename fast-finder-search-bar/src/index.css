@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif; /* Changed font family */
+  font-size: 18px; /* Increased base font size */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f8ff;
+}
+
+code {
+  font-family: 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-size: 1.1rem; /* Increased font size for code */
+}
